@@ -23,7 +23,7 @@ it feels natural to create my own basic version of medical device software.
 Notes: 
 * I did my best to use as much as I can, of what I learned in the class. In this case, FFR can be calculated just by division. 
 As we spent time learning Selenium, I ensured I used Selenium to get FFR from a website, to run my program.
-* To keep this representative of what I can accomplish in 3 days, I made no changes to the software after I completed this, on 10Mar2023.  
+* To keep this representative of what I can accomplish in 3 days, I made no changes to the software after I completed this, on 10Mar2023. This is not the original Github repository on which I did this project. 
 
 <hr>
 
